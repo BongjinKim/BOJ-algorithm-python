@@ -48,9 +48,11 @@ def t(s):
     i=[j[::[1,-1][D]]for j in s][::[1,-1][U]]
     return[i,zip(*i)][T]
 D=U=T=0
-x,y,n=f();m,n=x//2,y//2
+x,y,n=f()
+m,n=x//2,y//2
 M=[[*f()]for i in R(x)]
-m=[c(0,0),c(0,1),c(1,0),c(1,1)]
+m=[c(0,0),c(0,1),c
+(1,0),c(1,1)]
 for k in f():
     a,b,c,d=m
     if k==1:m=[c,d,a,b]
