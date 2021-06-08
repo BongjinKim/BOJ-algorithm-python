@@ -13,7 +13,7 @@
 - 6588번 - 골드바흐의 추측
 
 ### 브루트 포스
-- 2309번 - 일곱 난쟁이
+- [2309번 - 일곱 난쟁이](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Brute_Force/2309-%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.py)
 - 3085번 - 사탕 게임
 - 1476번 - 날짜 계산
 - 1107번 - 리모컨
