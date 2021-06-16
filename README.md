@@ -4,7 +4,7 @@
 ### 수학
 - [10430번 - 나머지](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/BOJ-10430.py)
 - [4375번 - 1](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/1-4375.py)
-- 1037번 - 약수
+- [1037번 - 약수](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/약수-1037.py)
 - 17427번 - 약수의 합 2
 - 17425번 - 약수의 합
 - 2609번 - 최대공약수와 최소공배수
