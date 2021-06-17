@@ -6,11 +6,13 @@
 - [4375번 - 1](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/1-4375.py)
 - [1037번 - 약수](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/약수-1037.py)
 - [17427번 - 약수의 합 2](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/약수의합2-17427.py)
-- [17425번 - 약수의 합](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/약수의합-17425.py)
+- [17425번 - 약수의 합](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/약수의합-17425.py) -> 다시풀기
 - [2609번 - 최대공약수와 최소공배수](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/최대공약수와최소공배수-2609.py)
-- [1978번 - 소수 찾기](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/소수찾기-1978.py)
+- [1978번 - 소수 찾기](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/BOJ-1978.py)
 - [1929번 - 소수 구하기](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/BOJ-1929.py)
-- [6588번 - 골드바흐의 추측](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/골드바흐의추측-6588.py)
+- [6588번 - 골드바흐의 추측](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Math/골드바흐의추측-6588.py) -> 다시풀기 
+  
+
 
 ### 브루트 포스
 - [2309번 - 일곱 난쟁이](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Brute_Force/2309-%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.py)
