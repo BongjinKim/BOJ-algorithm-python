@@ -1,6 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d25250ec-fbcc-455f-afbb-38b3b4ae1920" name="Default Changelist" comment="Solved Math algorithm&#10;약수-1037">
+      <change afterPath="$PROJECT_DIR$/Math/골드바흐의추측-6588.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/소수찾기-1978.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/약수의합-17425.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/약수의합2-17427.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/최대공약수와최소공배수-2609.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math/약수-1037.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math/약수-1037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ted6V635dXgbEkD0udwZLt2VM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="settings.editor.selected.configurable" value="ssh.settings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d25250ec-fbcc-455f-afbb-38b3b4ae1920" name="Default Changelist" comment="" />
+      <created>1623133317763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623133317763</updated>
+      <workItem from="1623133321130" duration="3301000" />
+      <workItem from="1623823060461" duration="2886000" />
+      <workItem from="1623908525666" duration="1868000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update README&#10;solved 일곱 난쟁이">
+      <created>1623133646787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623133646787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update README&#10;solved 나머지&#10;solved 소수구하기">
+      <created>1623823173820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623823173820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Solve Math algorithm&#10;1-4375">
+      <created>1623825812822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623825812823</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update README&#10;solved 4375">
+      <created>1623825865075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623825865075</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Solved Math algorithm&#10;약수-1037">
+      <created>1623826730339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623826730339</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update README&#10;solved 일곱 난쟁이" />
+    <MESSAGE value="Update README&#10;solved 나머지&#10;solved 소수구하기" />
+    <MESSAGE value="Solve Math algorithm&#10;1-4375" />
+    <MESSAGE value="Update README&#10;solved 4375" />
+    <MESSAGE value="Solved Math algorithm&#10;약수-1037" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Math algorithm&#10;약수-1037" />
   </component>
 </project>
