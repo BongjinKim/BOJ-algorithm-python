@@ -19,7 +19,7 @@
 - [3085번 - 사탕 게임](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Brute_Force/사탕게임-3085.py) -> 다시풀기
 - 1476번 - 날짜 계산
 - 1107번 - 리모컨
-- 14500번 - 테트로미노
+- [14500번 - 테트로미노](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Brute_Force/14500-테트로미노.py) -> 다시풀기
 - 6064번 - 카잉 달력
 - 1748번 - 수 이어 쓰기 1
 - 9095번 - 1, 2, 3 더하기
