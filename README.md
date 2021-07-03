@@ -99,6 +99,7 @@
 - [13549번 - 숨바꼭질 3](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/DFS_BFS/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.py)
 - [1261번 - 알고스팟](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/DFS_BFS/%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F-1261.py)
 - [5426번 - 불](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/DFS_BFS/5427-불.py) - 다시풀기
+- [2206번 - 벽 부수고 이동하기](https://www.acmicpc.net/status?user_id=qhdwlsso&problem_id=2206&from_mine=1)
 ### 시뮬레이션과 구현
 - [16935번 - 배열 돌리기 3](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Implementation/BOJ16935.py)
 - [16926번 - 배열 돌리기 1](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Implementation/BOJ16926.py)
@@ -144,6 +145,6 @@
 - 2211번: 네트워크 복구 (★)
 - 16681번: 등산
 - 5719번: 거의 최단 경로 (★)
-- 15422번: Bumped!
+- [15422번: Bumped!](https://www.acmicpc.net/problem/15422)
 - 1162번: 도로포장 (★)
 - 10217번: KCM Travel (★)
