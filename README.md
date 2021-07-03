@@ -17,8 +17,8 @@
 ### 브루트 포스
 - [2309번 - 일곱 난쟁이](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Brute_Force/2309-%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.py)
 - [3085번 - 사탕 게임](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Brute_Force/사탕게임-3085.py) -> 다시풀기
-- 1476번 - 날짜 계산
-- 1107번 - 리모컨
+- [1476번 - 날짜 계산](https://www.acmicpc.net/problem/1476)
+- [1107번 - 리모컨](https://www.acmicpc.net/problem/1107) -> 다시풀기
 - [14500번 - 테트로미노](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Brute_Force/14500-테트로미노.py) -> 다시풀기
 - 6064번 - 카잉 달력
 - 1748번 - 수 이어 쓰기 1
@@ -49,6 +49,11 @@
 - 1182번 - 부분수열의 합
 - 14889번 - 스타트와 링크
 - 14391번 - 종이 조각
+- 2231번 - 분해합
+- 10448번 - 유레카 이론
+- 2503번 - 숫자 야구
+- 1018번 - 체스판 다시 칠하기
+- 1182번 - 부분집합의 합 (★)
 ### 다이나믹 프로그래밍
 - [1912번 - 연속합](https://www.acmicpc.net/problem/1912) -> 다시풀기
 - 1463번 - 1로 만들기
@@ -128,3 +133,17 @@
 -부분 수열 XOR
 - 아스키 거리
 -빅 픽쳐
+### 다익스트라
+- [1753번: 최단경로](https://www.acmicpc.net/problem/1753)
+- 1916번: 최소비용 구하기
+- 1504번: 특정한 최단 경로
+- 4485번: Obstacle Course
+- 1238번: 파티
+- 1261번: 알고스팟 (★)
+- 10473번: 인간 대포 (★)
+- 2211번: 네트워크 복구 (★)
+- 16681번: 등산
+- 5719번: 거의 최단 경로 (★)
+- 15422번: Bumped!
+- 1162번: 도로포장 (★)
+- 10217번: KCM Travel (★)
