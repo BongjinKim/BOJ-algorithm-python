@@ -136,11 +136,10 @@
 -빅 픽쳐
 ### 다익스트라
 - [1753번: 최단경로](https://www.acmicpc.net/problem/1753)
-- 1916번: 최소비용 구하기
-- 1504번: 특정한 최단 경로
-- 4485번: Obstacle Course
+- [1916번: 최소비용 구하기](https://www.acmicpc.net/problem/1916)
+- [1504번: 특정한 최단 경로](https://www.acmicpc.net/problem/1504)
+- [4485번: Obstacle Course](https://www.acmicpc.net/problem/6129)
 - 1238번: 파티
-- 1261번: 알고스팟 (★)
 - 10473번: 인간 대포 (★)
 - 2211번: 네트워크 복구 (★)
 - 16681번: 등산
