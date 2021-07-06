@@ -147,3 +147,9 @@
 - [15422번: Bumped!](https://www.acmicpc.net/problem/15422)
 - 1162번: 도로포장 (★)
 - 10217번: KCM Travel (★)
+
+### 탐욕법
+- [13904번: 과제](https://www.acmicpc.net/problem/13904)
+
+### 슬라이딩 윈도우
+- [2096번: 내려가기](https://www.acmicpc.net/problem/2096)
