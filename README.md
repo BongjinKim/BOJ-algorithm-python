@@ -150,6 +150,17 @@
 
 ### 탐욕법
 - [13904번: 과제](https://www.acmicpc.net/problem/13904)
+- [4796번: 캠핑](https://www.acmicpc.net/problem/4796)
+- [1449번: 수리공 항승](https://www.acmicpc.net/problem/1449)
+- [17509번: And the Winner is... Ourselves!](https://www.acmicpc.net/problem/17509)
+- [11047번: 동전 0](https://www.acmicpc.net/problem/11047)
+- [1931번: 회의실배정](https://www.acmicpc.net/problem/1931)
+- [11000번: 강의실 배정](https://www.acmicpc.net/problem/11000)
+- [1700번: 멀티탭 스케쥴링]
+- [2212번: 센서]
+- [13904번: 과제]()
+- [15748번: Rest Stops]
+- [1493: 박스 채우기]
 
 ### 슬라이딩 윈도우
 - [2096번: 내려가기](https://www.acmicpc.net/problem/2096)
