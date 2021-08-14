@@ -20,18 +20,18 @@
 - [1476번 - 날짜 계산](https://www.acmicpc.net/problem/1476)
 - [1107번 - 리모컨](https://www.acmicpc.net/problem/1107) -> 다시풀기
 - [14500번 - 테트로미노](https://github.com/BongjinKim/BOJ-algorithm-python/blob/main/Brute_Force/14500-테트로미노.py) -> 다시풀기
-- 6064번 - 카잉 달력
-- 1748번 - 수 이어 쓰기 1
-- 9095번 - 1, 2, 3 더하기
-- 15649번 - N과 M (1)
-- 15650번 - N과 M (2)
-- 15651번 - N과 M (3)
-- 15652번 - N과 M (4)
-- 15654번 - N과 M (5)
-- 15655번 - N과 M (6)
-- 15656번 - N과 M (7)
-- 15657번 - N과 M (8)
-- 18290번 - NM과 K (1)
+- [6064번 - 카잉 달력](https://www.acmicpc.net/problem/6064)
+- [1748번 - 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
+- [9095번 - 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+- [15649번 - N과 M (1)](https://www.acmicpc.net/problem/15649)
+- [15650번 - N과 M (2)](https://www.acmicpc.net/problem/15650)
+- [15651번 - N과 M (3)](https://www.acmicpc.net/problem/15651)
+- [15652번 - N과 M (4)](https://www.acmicpc.net/problem/15652)
+- [15654번 - N과 M (5)](https://www.acmicpc.net/problem/15654)
+- [15655번 - N과 M (6)](https://www.acmicpc.net/problem/15655)
+- [15656번 - N과 M (7)](https://www.acmicpc.net/problem/15656)
+- [15657번 - N과 M (8)](https://www.acmicpc.net/problem/15657)
+- [18290번 - NM과 K (1)](https://www.acmicpc.net/problem/18290)
 - 9095번 - 1, 2, 3 더하기
 - 1759번 - 암호 만들기
 - 14501번 - 퇴사
@@ -158,9 +158,10 @@
 - [11000번: 강의실 배정](https://www.acmicpc.net/problem/11000)
 - [1700번: 멀티탭 스케쥴링]
 - [2212번: 센서]
-- [13904번: 과제]()
+- [13904번: 과제](https://www.acmicpc.net/problem/13904)
 - [15748번: Rest Stops]
-- [1493: 박스 채우기]
+- [1493번: 박스 채우기]
+- [1150번: 백업](https://www.acmicpc.net/problem/1150)
 
 ### 슬라이딩 윈도우
 - [2096번: 내려가기](https://www.acmicpc.net/problem/2096)
