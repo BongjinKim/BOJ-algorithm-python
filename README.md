@@ -32,7 +32,7 @@
 - [15656번 - N과 M (7)](https://www.acmicpc.net/problem/15656)
 - [15657번 - N과 M (8)](https://www.acmicpc.net/problem/15657)
 - [18290번 - NM과 K (1)](https://www.acmicpc.net/problem/18290)
-- 9095번 - 1, 2, 3 더하기
+- [9095번 - 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 - 1759번 - 암호 만들기
 - 14501번 - 퇴사
 - 14889번 - 스타트와 링크
