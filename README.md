@@ -33,9 +33,9 @@
 - [15657번 - N과 M (8)](https://www.acmicpc.net/problem/15657)
 - [18290번 - NM과 K (1)](https://www.acmicpc.net/problem/18290)
 - [9095번 - 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-- 1759번 - 암호 만들기
-- 14501번 - 퇴사
-- 14889번 - 스타트와 링크
+- [1759번 - 암호 만들기](https://www.acmicpc.net/problem/1759)
+- [14501번 - 퇴사](https://www.acmicpc.net/problem/14501)
+- [14889번 - 스타트와 링크](https://www.acmicpc.net/problem/14889)
 - 15661번 - 링크와 스타트
 - 2529번 - 부등호
 - 1248번 - 맞춰봐
@@ -46,14 +46,12 @@
 - 10971번 - 외판원 순회 2
 - 6603번 - 로또
 - 11723번 - 집합
-- 1182번 - 부분수열의 합
-- 14889번 - 스타트와 링크
-- 14391번 - 종이 조각
-- 2231번 - 분해합
-- 10448번 - 유레카 이론
-- 2503번 - 숫자 야구
-- 1018번 - 체스판 다시 칠하기
-- 1182번 - 부분집합의 합 (★)
+- [1182번 - 부분수열의 합](https://www.acmicpc.net/problem/1182)
+- [14391번 - 종이 조각]
+- [2231번 - 분해합](https://www.acmicpc.net/problem/2231)
+- [10448번 - 유레카 이론](https://www.acmicpc.net/problem/10448)
+- [2503번 - 숫자 야구](https://www.acmicpc.net/problem/2503)
+- [1018번 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 ### 다이나믹 프로그래밍
 - [1912번 - 연속합](https://www.acmicpc.net/problem/1912) -> 다시풀기
 - 1463번 - 1로 만들기
@@ -156,12 +154,36 @@
 - [11047번: 동전 0](https://www.acmicpc.net/problem/11047)
 - [1931번: 회의실배정](https://www.acmicpc.net/problem/1931)
 - [11000번: 강의실 배정](https://www.acmicpc.net/problem/11000)
-- [1700번: 멀티탭 스케쥴링]
-- [2212번: 센서]
+- [1700번: 멀티탭 스케쥴링](https://www.acmicpc.net/status?user_id=qhdwlsso&problem_id=1700&from_mine=1)
+- [2212번: 센서](https://www.acmicpc.net/problem/2212)
 - [13904번: 과제](https://www.acmicpc.net/problem/13904)
-- [15748번: Rest Stops]
-- [1493번: 박스 채우기]
+- [15748번: Rest Stops](https://www.acmicpc.net/problem/15748) 
+- [1493번: 박스 채우기](https://www.acmicpc.net/problem/1493)
 - [1150번: 백업](https://www.acmicpc.net/problem/1150)
 
 ### 슬라이딩 윈도우
 - [2096번: 내려가기](https://www.acmicpc.net/problem/2096)
+
+### 구간합 배열(Prefix Sum) 
+- [11659번: 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- 11441번: 합 구하기
+- 17203번: ∑ΔEasyMAX
+- 11969번: Breed Counting
+- 16139번: 인간-컴퓨터 상호작용
+- 10211번: Maximum Subarray
+- 10986번: 나머지 합 (★)
+- 11660번: 구간 합 구하기 5
+- 16507번: 어두운 건 무서워
+- 11997번: Load Balancing (Silver) (★)
+- 16713번: Generic Queries (★)
+
+### Divide and Conquer
+- 1629번: 곱셈
+- 2104번: 부분배열 고르기
+- [1725번: 히스토그램](https://www.acmicpc.net/problem/1725)
+- 1780번: 종이의 개수
+- 1992번: 쿼드 트리
+- 1074번: Z
+- 2447번: 별 찍기 10
+- 2339번: 석판 자르기 (★)
+
